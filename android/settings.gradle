@@ -1,0 +1,3 @@
+rootProject.name = 'RememberYourBags'
+
+include ':app'
